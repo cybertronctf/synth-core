@@ -1,1 +1,0 @@
-print("synth-core FIX2")
